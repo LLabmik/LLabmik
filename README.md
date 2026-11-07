@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LLabmik 
 - 👀 I’m interested in C# and Blazor
-- 🌱 I’m currently learning Blazor and React
+- 🌱 I’m currently learning Blazor
 - 📫 How to reach me: MessageBase.net
 
 <!---
